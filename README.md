@@ -1,5 +1,5 @@
 # Analysis of Olist e-commerce dataset
-This is an application of a basic analysis of Olist e-commerce dataset. This analysis include: a section to dataset investigation (explore datasets, check columns, rows, some unique values in variables, and another to data visualization (plot histogram, boxplot, and interesting patterns on data). This work is under construction, so suggestions are welcomed!
+This is an application of a basic analysis of Olist e-commerce dataset. This analysis includes a section to dataset investigation (explore datasets, check columns, rows, some unique values in variables, and another to data visualization (plot histogram, boxplot, and interesting patterns on data). This work is under construction, so suggestions are welcomed!
  *[App link](https://)*
 
 ALl datasets are available here and on [Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce). 
